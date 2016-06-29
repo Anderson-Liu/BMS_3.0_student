@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BMS/DAO/AccountDAO.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/DAO/AccountDaoFactory.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/DAO/AccountFileDAO.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/Data/Account.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BMS/Exception/BusinessException.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/Server/BAMServer.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/Server/ServerThread.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/bamclient/BAMClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BMS/bamclient/BusinessPanel.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/bamclient/LoginPanel.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/bamclient/MainPanel.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/bamclient/RegisterPanel.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/business/Bank.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BMS/model/Account.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/model/CreditAccount.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/model/Info.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/model/LoanCreditAccount.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/model/LoanSavingAccount.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/model/Loannable.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/BMS/model/SavingAccount.java" charset="GB2312" />
+  </component>
+</project>
